@@ -1,4 +1,4 @@
 # ak-repository
 its my first repository
 <br>
-author-Amit Kamble
+author-king kohli
